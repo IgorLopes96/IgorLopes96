@@ -14,8 +14,8 @@ I turn customer and operations data into decisions using statistics, SQL, machin
 | [**Project Portfolio Analysis**](https://github.com/IgorLopes96/project-portfolio-analysis) | Why are 27% of projects cancelled? | Portfolio and phase analysis, non-parametric tests | Python |
 
 ## Skills
-**Analytics:** customer segmentation, churn modeling, hypothesis testing, KPI development, data cleaning
-**Tools:** Python (pandas, scikit-learn, SciPy), SQL, R, Excel, Power BI, Looker Studio, GA4
-**Project management:** Jira, Confluence, Agile, business requirements (BRD)
+- **Analytics:** customer segmentation, churn modeling, hypothesis testing, KPI development, data cleaning
+- **Tools:** Python (pandas, scikit-learn, SciPy), SQL, R, Excel, Power BI, Looker Studio, GA4
+- **Project management:** Jira, Confluence, Agile, business requirements (BRD)
 
 📫 [LinkedIn](https://linkedin.com/in/usbr-igorlopes) · [Kaggle](https://www.kaggle.com/igormlopes)
